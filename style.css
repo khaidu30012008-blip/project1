@@ -1,10 +1,19 @@
 h1 {
-  corlor: red;
+Màu sắc: đỏ;
 }
 .f1 {
-  corlor: tomato;
-  margin-top: 18pt;
-  margin-bottom: 12pt;
-  font-size: 20px;
-  font-weight: bold;
-  font-family: Arial
+Màu sắc: cà chua;
+lề trên: 18pt;
+lề dưới: 12pt;
+cỡ chữ: 20px;
+font-weight: bold;
+font-family: Arial;
+}
+.f2 {
+Màu sắc: đen;
+lề trên: 6pt;
+lề dưới: 6pt;
+cỡ chữ: 15px;
+font-weight: normal;
+font-family: Arial;
+}
